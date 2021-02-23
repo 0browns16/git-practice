@@ -3,5 +3,5 @@
 自分のリポジトリで変更
 rebase-practiceブランチで更新(rebase-コンフリクト用)
 rebase pull 用
-stash (トラック済み)
+stash練習 (2nd変更)
 
